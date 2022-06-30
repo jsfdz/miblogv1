@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+h1 {
+  text-shadow: 3px 3px 4px #9ae2c4;
+}
+
 .header {
   height: 50vh;
   background-image: url("https://cdn.wallpapersafari.com/11/17/JlHfh0.jpg");
